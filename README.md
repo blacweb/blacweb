@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Zawar</h1>
 
 <h3 align="center">Full Stack Developer | AI Engineer | MERN Specialist</h3>
 
