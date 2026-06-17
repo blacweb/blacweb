@@ -25,7 +25,7 @@ I also create content and build scalable solutions for real-world problems.
   </a>
 
   <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram%20and%20pink"/>
   </a>
 
   <a href="https://youtube.com/your-channel" target="_blank">
