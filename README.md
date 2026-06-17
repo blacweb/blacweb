@@ -24,10 +24,6 @@ I also create content and build scalable solutions for real-world problems.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20and%20pink"/>
-  </a>
-
   <a href="https://youtube.com/your-channel" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
