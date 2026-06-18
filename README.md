@@ -59,7 +59,7 @@ I also create content and build scalable solutions for real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blacweb&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blacweb&theme=tokyonight&cache_seconds=1" />
 </p>
 
 ---
