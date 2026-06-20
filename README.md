@@ -7,7 +7,7 @@
 # About Me
 
 I'm a software engineer working with full-stack applications.  
-Specializing in **mobile app development**, **MERN stack**, and **AI-based systems**.  
+Specializing in **web app development**, **MERN stack**, and **AI-based systems**.  
 I also create content and build scalable solutions for real-world problems.
 
 - 🔭 Currently working on Full Stack & AI projects  
