@@ -64,7 +64,7 @@ I also create content and build scalable solutions for real-world problems.
 
 ---
 
-##  Currently Focused On
+#  Currently Focused On
 
 - Building production-level full stack apps  
 - Improving system design & architecture skills  
